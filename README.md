@@ -1,16 +1,16 @@
-* بوت ليوني الاقوى والاحدث لحمايت المجموعات في التليجرام
+* بوت كيتكات حمايت المجموعات في التليجرام
 
 
 # التنصيب بكود واحد
 
-sudo apt-get update; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev autoconf -y --force-yes && git clone https://github.com/devar97/LionBot.git && cd LionBot && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get update; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev autoconf -y --force-yes && git clone https://github.com/takeali1996/AraqBot.git && cd AraqBot && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 
 * Enter a phone number & confirmation code.
 
 
 
 
-# طريقة تنصيب بوت ليوني 2017
+# طريقة تنصيب بوت ketkit 2017
 
 افتـح ترمنـــأل وخلي هاي
 👇
@@ -27,12 +27,10 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 وراها هاي👇
 
-git clone https://github.com/devar97/LionBot.git
+git clone https://github.com/takeali1996/AraqBot.git
 
- وراها هاي👇
-
-cd LionBot
-
+ وراها ها
+cd AraqBot
 وراها هاي👇
 
 chmod +x launch.sh
@@ -49,10 +47,8 @@ chmod +x launch.sh
 
 # Our team!
 
-[GitHub](https://github.com/devar97) 
+[) 
 
 #  المطورين  :
 
-# [٠ツاٰلـہحَہہزِيـن ٠](https://telegram.me/Dev_ar) 
-# [🎶❰🇯 🇴 🇰 🇷۞🇰 🇮 🇳 🇬❱🎶](https://telegram.me/js_33) 
-
+# [٠ツ ٠](https://telegram.me/) 
