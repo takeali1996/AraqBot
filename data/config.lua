@@ -44,7 +44,7 @@ do local _ = {
     data = "data/moderation.json"
   },
   sudo_users = {
-  199145880, -- هنا حط الايدي مالتك
+   71755045, -- هنا حط الايدي مالتك
 
   }
 }
